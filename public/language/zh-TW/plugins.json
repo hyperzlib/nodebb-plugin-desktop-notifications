@@ -1,0 +1,6 @@
+    
+{
+    "desktop_notifications.title": "桌面通知",
+    "desktop_notifications.message": "<strong>%1</strong> 需要您授予發送通知的權限，請點擊這裡以授權。",
+    "desktop_notifications.ignored": "桌面通知被禁用，你可以在個人設置中重新開啟。"
+}
